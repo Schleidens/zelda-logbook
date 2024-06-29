@@ -1,11 +1,5 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue'
 import { RouterLink, RouterView } from 'vue-router'
-import { useSearchStore } from './stores/search.store'
-import { storeToRefs } from 'pinia'
-
-const { searchValue } = storeToRefs(useSearchStore())
-// const inputValue = searchStore.searchValue
 </script>
 
 <template>

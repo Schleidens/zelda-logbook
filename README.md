@@ -1,18 +1,16 @@
 # zelda-logbook
 
-This template should help get you started developing with Vue 3 in Vite.
+## Info
 
-## Recommended IDE Setup
+This project use Vue, Typescript, Scss and data are fetching from [Zelda API](https://docs.zelda.fanapis.com/docs/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+6 Items / page and navigation (next/prev)
 
-## Type Support for `.vue` Imports in TS
+Search by keywords
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+[Click here to see live demo](https://clever-swan-336752.netlify.app/)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Hosted on netlify
 
 ## Project Setup
 
